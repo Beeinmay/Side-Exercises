@@ -1,0 +1,20 @@
+=== Why did you choose to attend university? ===
+1 - Does not correspond at all
+2 - Corresponds a little
+3 - Corresponds moderately
+4 - Corresponds a lot
+5 - Corresponds exactly
+
+I attend university because...
+Question 1. Because others (e.g., parents, family, friends) expect me to.
+Question 2. Because I experience pleasure and satisfaction while learning new things.
+Question 3. Becuase I think a university education will help me to better prepare for the career I have chosen.
+Question 4. Because I enjoy learning about the subjects I am studying.
+Question 5. For the pleasure I experience while surpassing myself in my studies.
+Question 6. Because I want to show others that I'm capable of completing a university degree.
+Question 7. Because eventually it will enable me to enter the job market in a field I like.
+Question 8. Because I feel important when I succeed in university.
+Question 9. For the pleasure I experience when broadening my knowledge about subjects that appeal to me.
+Question 10. For the satisfaction I feel when I am in the process of accomplishing difficult academic activities.
+Question 11. Getting a university education is connected to my other long-term goals.
+Question 12. Because I believe that a university education will enrich my personal development.
